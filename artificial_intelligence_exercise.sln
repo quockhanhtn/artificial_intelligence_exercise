@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ex1_solve_8_puzzle", "ex1_solve_8_puzzle\ex1_solve_8_puzzle.pyproj", "{02B43AB3-34BA-49D0-88F6-7A0DD09B6D38}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ex2_a_star_search_to_find_way_in_maze", "ex2_a_star_search_to_find_way_in_maze\ex2_a_star_search_to_find_way_in_maze.pyproj", "{A6093112-099A-47DB-B51D-6B7AEE7A063C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ex3_n_queens_with_simulated_annealing", "ex3_n_queens_with_simulated_annealing\ex3_n_queens_with_simulated_annealing.pyproj", "{EE124548-AD80-45DE-B519-E3154BBAEE67}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ex4_n_queens_with_and_or_search", "ex4_n_queens_with_and_or_search\ex4_n_queens_with_and_or_search.pyproj", "{B0B690D1-48E7-4A0F-913E-C29B8354EC69}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ex5_solve_sudoku", "ex5_solve_sudoku\ex5_solve_sudoku.pyproj", "{984EE421-BDC7-428A-AD0F-0B987885608E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ex6_n_queens_with_min_conflicts", "ex6_n_queens_with_min_conflicts\ex6_n_queens_with_min_conflicts.pyproj", "{CF543AAF-8F93-4CA9-A166-2A6BD10F7FB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B43AB3-34BA-49D0-88F6-7A0DD09B6D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B43AB3-34BA-49D0-88F6-7A0DD09B6D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6093112-099A-47DB-B51D-6B7AEE7A063C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6093112-099A-47DB-B51D-6B7AEE7A063C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE124548-AD80-45DE-B519-E3154BBAEE67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE124548-AD80-45DE-B519-E3154BBAEE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B690D1-48E7-4A0F-913E-C29B8354EC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B690D1-48E7-4A0F-913E-C29B8354EC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{984EE421-BDC7-428A-AD0F-0B987885608E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{984EE421-BDC7-428A-AD0F-0B987885608E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF543AAF-8F93-4CA9-A166-2A6BD10F7FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF543AAF-8F93-4CA9-A166-2A6BD10F7FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CAFE74D-3E94-4BFB-A724-E46B253D770A}
+	EndGlobalSection
+EndGlobal
